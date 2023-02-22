@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b6c6421683e0acdcdba0c3acef5067fb8130ca5fde0a36edeee2d10797f55701"
+build_start_time: [1677056705, 268053054]
+build_end_time: [1677056712, 875369071]
+inputs:
+  "/Users/Intin/CodingStudy/flutter_study/toonflix_2nd/macos/Flutter/GeneratedPluginRegistrant.swift": [1677056689, 124503612]
+  "/Users/Intin/CodingStudy/flutter_study/toonflix_2nd/macos/Runner/AppDelegate.swift": [1671141040, 0]
+  "/Users/Intin/CodingStudy/flutter_study/toonflix_2nd/macos/Runner/MainFlutterWindow.swift": [1671141040, 0]
